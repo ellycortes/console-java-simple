@@ -31,7 +31,7 @@
                         <manifest>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>lib/</classpathPrefix>
-                            <mainClass>org.eclipse.che.examples.HelloWorld</mainClass>
+                            <mainClass>Practice.A</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
